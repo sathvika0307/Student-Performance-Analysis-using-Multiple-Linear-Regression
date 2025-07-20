@@ -38,7 +38,7 @@ This project aims to **predict student academic performance** using **Multiple L
 
 ### 📂 Dataset Information:
 
-- **Filename:** `[Student_Performance.csv]
+- **Filename:** `[Student_Performance.csv](https://github.com/sathvika0307/Student-Performance-Analysis-using-Multiple-Linear-Regression/blob/main/Student_Performance.csv)
 - **Target Variable:** Performance Index  
 - **Selected Features:**
   - Study Hours  
