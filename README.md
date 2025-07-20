@@ -1,19 +1,18 @@
 ## 📊 Project Title: Student Performance Analysis using Multiple Linear Regression
 
-### 🛠️ Built With:
-
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
-
----
-
 ### 📝 Project Description:
 
 This project uses **Multiple Linear Regression** to analyze and predict student performance based on academic, personal, and behavioral factors. By processing a dataset of student attributes like study hours, sleep duration, previous academic scores, and extracurricular activities, the model aims to forecast the **Performance Index** of students. This can help in identifying areas for improvement and guiding academic strategies.
+
+---
+
+### 🛠️ Built With:
+- Python  
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Seaborn  
+- Scikit-learn
 
 ---
 
